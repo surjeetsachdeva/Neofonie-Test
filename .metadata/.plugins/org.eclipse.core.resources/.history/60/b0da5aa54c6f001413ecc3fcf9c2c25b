@@ -1,0 +1,7 @@
+package com.test.neofonie.sur;
+
+public interface IPrintNumbers {
+	
+	public void printNumbers();
+
+}

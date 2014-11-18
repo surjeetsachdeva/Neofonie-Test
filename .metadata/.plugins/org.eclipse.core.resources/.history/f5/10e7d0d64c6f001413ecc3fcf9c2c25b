@@ -1,0 +1,11 @@
+package com.test.neofonie.sur;
+
+public class PrintNumbersSimpleImpl implements IPrintNumbers {
+
+	@Override
+	public void printNumbers() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
