@@ -1,0 +1,9 @@
+package com.test.neofonie.sur;
+
+public class PrintNumbersSimpleImpl {
+
+	public static void main(String[] args) {
+		
+	}
+
+}
